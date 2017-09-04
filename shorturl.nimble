@@ -6,4 +6,4 @@ description = "Nim module for generating URL identifiers"
 license = "MIT"
 
 [Deps]
-Requires: "nim >= 0.10"
+Requires: "nim >= 0.15"
